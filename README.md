@@ -21,6 +21,7 @@ in terms of computing resources, we can deploy the app on  <br>
 2.cluster mode (mesos cluster (using zookeeper quorum) <br>
 
 <br>
+
 **The app is written in Scala language**
 
 ### Workflow
