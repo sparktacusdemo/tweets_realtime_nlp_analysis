@@ -32,4 +32,4 @@ in terms of computing resources, we can deploy the app on  <br>
 
 ### Zeppelin Notebook
 <br>
-[put the link here]
+[put the notebook link here]
