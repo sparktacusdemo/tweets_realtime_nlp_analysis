@@ -7,7 +7,7 @@ Real-time Analyze the tweets, by applying NLP algorithms. The application will b
 <br>
 
 ### Technical Environment <br>
-The app is built in a scalable system, using the frameworks below: <br>
+The app is built in a scalable system, using the tools below: <br>
 - apache kafka (for the data ETL and streaming data source parts) <br>
 - apache Spark (for the data processing (NLP)) <br>
 - Spark NLP (John Snow Labs) <br>
