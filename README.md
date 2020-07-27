@@ -30,6 +30,14 @@ in terms of computing resources, we can deploy the app on  <br>
 [click here to enlarge the schema](https://github.com/sparktacusdemo1/tweets_realtime_nlp_analysis/blob/master/Workflow_tweets_realtime_nlp_analysis.pdf)
 <br>
 
+### Points to set
+- Kafka Connect: source and sink connectors
+- Mongo DB collections
+- Eclipse IDE project (e.g POM.xml file)
+- Spark
+- HDFS (folder system for the app)
+- Zeppelin (e.g Mongo Db interpreter)
+
 ### Zeppelin Notebook
 <br>
 [put the notebook link here]
