@@ -31,12 +31,12 @@ in terms of computing resources, we can deploy the app on  <br>
 <br>
 
 ### Points to set
-- Kafka Connect: source and sink connectors
+- Kafka Connect: source (Twitter) and sink connectors (MongoDB)
 - Mongo DB collections
 - Eclipse IDE project (e.g POM.xml file)
 - Spark
 - HDFS (folder system for the app)
-- Zeppelin (e.g Mongo Db interpreter)
+- Zeppelin (e.g MongoDB interpreter)
 
 ### Zeppelin Notebook
 <br>
