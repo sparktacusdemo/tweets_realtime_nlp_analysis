@@ -25,11 +25,9 @@ in terms of computing resources, we can deploy the app on  <br>
 
 ### Workflow
 <br>
-see the powerpoint [here](https://github.com/sparktacusdemo1/tweets_realtime_nlp_analysis/blob/master/tweets_realtime_nlp_analysis.pdf)
+see the powerpoint [test](/tweets_realtime_nlp_analysis/blob/master/tweets_realtime_nlp_analysis.pdf)
 <br>
-[link](https://www.google.com)
-<br>
-This site was built using [GitHub Pages](https://pages.github.com/)
+
 
 
 
