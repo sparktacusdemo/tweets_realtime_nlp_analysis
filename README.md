@@ -37,6 +37,7 @@ in terms of computing resources, we can deploy the app on  <br>
 - Spark
 - HDFS (folders system for the app)
 - Zeppelin (e.g MongoDB interpreter)
+- MESOS resource manager (if cluster mode deployment)
 
 ### Zeppelin Notebook
 <br>
