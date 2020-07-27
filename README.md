@@ -28,6 +28,6 @@ in terms of computing resources, we can deploy the app on  <br>
 see the powerpoint [here](https://github.com/sparktacusdemo1/tweets_realtime_nlp_analysis/blob/master/Workflow_tweets_realtime_nlp_analysis.pdf)
 <br>
 
-
-
-
+### Zeppelin Notebook
+<br>
+[put the link here]
