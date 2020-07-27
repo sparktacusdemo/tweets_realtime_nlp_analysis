@@ -25,7 +25,7 @@ in terms of computing resources, we can deploy the app on  <br>
 **The app is written in Scala language**
 
 ### Workflow
-see the powerpoint [here](https://github.com/sparktacusdemo1/tweets_realtime_nlp_analysis/blob/master/tweets_realtime_nlp_analysis.pdf target="_blank")
+see the powerpoint [here](https://github.com/sparktacusdemo1/tweets_realtime_nlp_analysis/blob/master/tweets_realtime_nlp_analysis.pdf" target="_blank)
 <br>
 
 
