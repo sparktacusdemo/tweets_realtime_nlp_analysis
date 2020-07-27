@@ -28,6 +28,7 @@ The app is written in Scala language
 see the powerpoint [test](/tweets_realtime_nlp_analysis/blob/master/tweets_realtime_nlp_analysis.pdf)
 <br>
 
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
 
 
