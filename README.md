@@ -35,7 +35,7 @@ in terms of computing resources, we can deploy the app on  <br>
 - Mongo DB collections
 - Eclipse IDE project (e.g POM.xml file)
 - Spark
-- HDFS (folder system for the app)
+- HDFS (folders system for the app)
 - Zeppelin (e.g MongoDB interpreter)
 
 ### Zeppelin Notebook
