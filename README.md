@@ -40,5 +40,4 @@ in terms of computing resources, we can deploy the app on  <br>
 - MESOS resource manager (if cluster mode deployment)
 
 ### Zeppelin Notebook
-<br>
 [put the notebook link here]
