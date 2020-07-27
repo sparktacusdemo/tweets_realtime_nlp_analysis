@@ -17,8 +17,8 @@ The app is built in a scalable system, using the frameworks below: <br>
 - ECLIPSE (as IDE)
 
 in terms of computing resources, we can deploy the app on  <br>
-1.local mode (using the spark cluster (standalone mode), app depends of local machine) <br>
-2.cluster mode (mesos cluster (using zookeeper quorum) <br>
+1. local mode (using the spark cluster (standalone mode), app depends of local machine) <br>
+2. cluster mode (mesos cluster (using zookeeper quorum) <br>
 
 <br>
 
@@ -26,10 +26,10 @@ in terms of computing resources, we can deploy the app on  <br>
 
 ### Workflow
 <br>
-see the powerpoint [test](/tweets_realtime_nlp_analysis/blob/master/tweets_realtime_nlp_analysis.pdf)
+see the powerpoint [test]()
 <br>
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+see the powerpoint [here](https://github.com/sparktacusdemo1/tweets_realtime_nlp_analysis/blob/master/tweets_realtime_nlp_analysis.pdf)
 
 
 
