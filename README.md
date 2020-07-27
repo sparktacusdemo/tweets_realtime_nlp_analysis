@@ -25,4 +25,8 @@ The app is written in Scala language
 
 ### Workflow
 <br>
-see the powerpoint here
+see the powerpoint [here](https://github.com/sparktacusdemo1/tweets_realtime_nlp_analysis/blob/master/tweets_realtime_nlp_analysis.pdf)
+
+<br>
+
+
