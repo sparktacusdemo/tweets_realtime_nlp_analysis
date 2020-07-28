@@ -4,6 +4,7 @@
 
 ### Purpose <br>
 Real-time Analyze the tweets, by applying NLP algorithms. The application will bring us insights about a specific subject,or theme.
+For example, the app can analyze the sentiment (negative, positive, neutral) of a set of tweets that concern a specific topic.
 <br>
 
 ### Technical Environment <br>
