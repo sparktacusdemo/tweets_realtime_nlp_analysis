@@ -40,4 +40,4 @@ in terms of computing resources, we can deploy the app on  <br>
 - MESOS resource manager (if cluster mode deployment)
 
 ### Zeppelin Notebook
-[put the notebook link here]
+http://localhost:8180/
