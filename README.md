@@ -3,8 +3,9 @@
 ## Project's Presentation
 
 ### Purpose <br>
-Real-time Analyze the tweets, by applying NLP algorithms. The application will bring us insights about a specific subject,or theme.
-For example, the app can analyze the sentiment (negative, positive, neutral) of a set of tweets that concern a specific topic.
+This Big Data system analyze the tweets, in Real Time, by applying NLP algorithms. The application will bring us insights about a specific subject,or theme.
+For example, the app can analyze the sentiment (negative, positive, neutral) of a set of tweets that concern a specific topic or brand or personality.
+Reliable and scalable, this system operates in a fully distributed environment.
 <br>
 
 ### Technical Environment <br>
@@ -32,10 +33,10 @@ in terms of computing resources, we can deploy the app on  <br>
 <br>
 
 ### Points to set
-- Kafka Connect: source (Twitter) and sink connectors (MongoDB)
+- Kafka Connect: source (Twitter API) and sink connectors (MongoDB)
 - Mongo DB collections
-- Eclipse IDE project (e.g POM.xml file)
-- Spark
+- Eclipse IDE project (using Maven (POM.xml file))
+- Apache Spark (Spark SQL, Spark Streaming, Spark ML, Spark NLP)
 - HDFS (folders system for the app)
 - Zeppelin (MongoDB interpreter to read data stored in collections)
 - MESOS resource manager (if cluster mode deployment) (cluster is built on Aws EC2 instances)
