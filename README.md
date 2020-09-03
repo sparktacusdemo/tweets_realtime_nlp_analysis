@@ -37,8 +37,8 @@ in terms of computing resources, we can deploy the app on  <br>
 - Eclipse IDE project (e.g POM.xml file)
 - Spark
 - HDFS (folders system for the app)
-- Zeppelin (e.g MongoDB interpreter)
-- MESOS resource manager (if cluster mode deployment)
+- Zeppelin (MongoDB interpreter to read data stored in collections)
+- MESOS resource manager (if cluster mode deployment) (cluster is built on Aws EC2 instances)
 
 ### Zeppelin Notebook
 [dashboard](http://localhost:8180/)
